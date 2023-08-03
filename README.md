@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Micaela. 👋
 
 <!--
 **mica-ailen/mica-ailen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🙋🏼 I am Frontend Web Developer (EU citizenship). I started as a self-taught web developer in 2021. I am passionate about creating visually appealing and user-friendly websites. 
+
+💻 Tech stack: HTML, CSS, Bootstrap, JavaScript, React, Git and GitHub, VSC, GNU Linux and Figma
+
+🌱 I’m currently learning TypeScript
+
+🕚 Next step: Being AWS Cloud Certified
