@@ -4,6 +4,6 @@
 
 <p>💻 Tech stack: React, JavaScript, TypeScript, Node.js, Express.js, MongoDB, CSS, Bootstrap, Git, GitHub, VSC, GNU Linux and Figma</p>
 
-<p>🌱 I’m currently learning TypeScript</p>
+<p>🌱 I’m currently learning Python</p>
 
 <p>🕚 Next step: Being AWS Cloud Certified</p>
