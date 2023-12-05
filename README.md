@@ -8,4 +8,4 @@
 
 <p>🏅 Achievement Unlocked: Being AWS Cloud Certified ✅ </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mica-ailen&hide=html,scss,css&theme=dracula)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mica-ailen&hide=html,scss,css&theme=dracula)
