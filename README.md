@@ -8,4 +8,4 @@
 
 <p>🕚 Next step: Being AWS Cloud Certified</p>
 
-![Code](https://github-readme-stats.vercel.app/api/top-langs/?username=mica-ailen&layout=compact&theme=calm&count_private=true&hide=SCSS,Less,Java&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mica-ailen&theme=tokyonight)
